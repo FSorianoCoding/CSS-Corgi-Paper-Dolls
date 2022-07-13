@@ -17,8 +17,8 @@
 }
 
 .stick-corgi.corgi.luna {
-    position: sticky;
-    left: 1em;
+    position: absolute;
+    left: 13.5em;
 }
 
 .top-hat {
